@@ -8,10 +8,13 @@ My name is Aayush Kumar Singh and I'm a Computer Science Undergraduate Student. 
 ## &#x270d; Blog & Writing
 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [blogster.ninja](https://www.blogster.ninja/) 
-<!--
-**Aayush452-cell/Aayush452-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/Aayush452-cell/Aayush452-cell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush452-cell&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
