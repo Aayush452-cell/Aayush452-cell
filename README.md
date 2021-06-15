@@ -2,8 +2,12 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Aayush452-cell/Aayush452-cell/master/wave.gif" width="30px">
+My name is Aayush Kumar Singh and I'm a Computer Science Undergraduate Student. I'm from India, living in Patna and i love working on Backend Web Development and Data Science Projects.
 
 
+## &#x270d; Blog & Writing
+
+Apart from coding, I also maintain a blog - you can find my articles on my website at [blogster.ninja](https://www.blogster.ninja/) 
 <!--
 **Aayush452-cell/Aayush452-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
