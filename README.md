@@ -1,7 +1,8 @@
 [![Header](https://github.com/Aayush452-cell/Aayush452-cell/blob/master/header.gif "Header")](http://aayushsingh.herokuapp.com/)
 
 
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/Aayush452-cell/Aayush452-cell/master/wave.gif" width="30px">
+
 
 <!--
 **Aayush452-cell/Aayush452-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
