@@ -2,7 +2,7 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Aayush452-cell/Aayush452-cell/master/wave.gif" width="30px">
-My name is Aayush Kumar Singh and I'm a Computer Science Undergraduate Student. I'm from India, living in Patna and i love working on Backend Web Development and Data Science Projects.
+My name is Aayush Kumar Singh and I'm a Computer Science Undergraduate Student. I'm from India, living in Patna and i love working on Full Stack Web Development and Data Science Projects.
 
 
 ## &#x270d; Blog & Writing
