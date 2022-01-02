@@ -27,5 +27,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>
 
 <a href="https://github.com/Aayush452-cell/Aayush452-cell">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aayush452-cell&show_icons=true&line_height=27&count_private=true&theme=radical alt="Aayush's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aayush452-cell&line_height=27&count_private=true&theme=radical alt="Aayush's GitHub Stats" />
 </a>
