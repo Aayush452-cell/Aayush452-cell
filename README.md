@@ -25,3 +25,5 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <a href="https://github.com/Aayush452-cell/Aayush452-cell">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aayush452-cell&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aayush452-cell)](https://github.com/anuraghazra/github-readme-stats)
