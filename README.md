@@ -2,13 +2,7 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Aayush452-cell/Aayush452-cell/master/wave.gif" width="30px">
-My name is Aayush Kumar Singh and I'm a Computer Science Undergraduate Student. I'm from India, living in Patna and a I'm Full Stack Web Developer.
-
-
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a blog - you can find my articles on my website at [blogster.ninja](https://www.blogster.ninja/) 
-
+This is Aayush  A 2023 IIIT Agartala Grad and Ex-Amazon & Pickl.AI Intern , A upcoming  ASDE-1 at Publicis Sapient | I am Passionate about Open Source, Django & DevOps
 
 ---
 
