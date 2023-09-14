@@ -2,7 +2,7 @@
 
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/Aayush452-cell/Aayush452-cell/master/wave.gif" width="30px">
-This is Aayush  A 2023 IIIT Agartala Grad and Ex-Amazon & Pickl.AI Intern , A upcoming  ASDE-1 at Publicis Sapient | I am Passionate about Open Source, Django & DevOps
+This is Aayush  ,a 2023 IIIT Agartala Grad and Ex-Amazon & Pickl.AI Intern , A upcoming  ASDE-1 at Publicis Sapient | I am Passionate about Open Source, Django & DevOps
 
 ---
 
